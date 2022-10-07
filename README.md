@@ -1,4 +1,4 @@
-# compiler-design
+compiler-design
 
 Enrollment number-19100BTIT06568
 
